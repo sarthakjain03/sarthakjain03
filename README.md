@@ -1,3 +1,4 @@
+![linkedin_bg](https://github.com/sarthakjain03/sarthakjain03/assets/95630498/6ec340da-f51d-44b9-b97d-d83b47a8befa)
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">A passionate frontend web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://sarthakcv.netlify.app/images/intro-section-img.png">
