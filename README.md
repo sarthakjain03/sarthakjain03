@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js in depth**
 
-- 👨‍💻 All of my projects are available at [https://sarthakcv.netlify.app/](https://sarthakcv.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://sarthakcv.netlify.app/](https://sarthakcv.netlify.app/) -->
 
 - 💬 Ask me about **Coding, movies and web-series**
 
