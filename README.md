@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">An aspiring full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [Socialytics](https://socialytics-dev.vercel.app/)
+- 🔭 I’m currently working on [Personal Finance Manager]()
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **react, tailwind, c++**
+- 💬 Ask me about **react, tailwind, typescript, javascript**
 
 - 📫 How to reach me **sarthakjain.tech@gmail.com**
 
