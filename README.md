@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, tailwind, c++**
 
-- 📫 How to reach me **sjwork76@gmail.com**
+- 📫 How to reach me **sarthakjain.tech@gmail.com**
 
 - ⚡ Fun fact **I like to travel**
 
