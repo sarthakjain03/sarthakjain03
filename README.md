@@ -1,12 +1,12 @@
 ![linkedin_bg](https://github.com/sarthakjain03/sarthakjain03/assets/95630498/6ec340da-f51d-44b9-b97d-d83b47a8befa)
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
-<h3 align="center">An aspiring full stack web developer from India</h3>
+<h3 align="center">A full stack web developer from India</h3>
 
 - 🔭 I’m currently working on [Personal Finance Manager]()
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react, tailwind, typescript, javascript**
+- 💬 Ask me about **react, tailwind, typescript, javascript, nodejs**
 
 - 📫 How to reach me **sarthakjain.tech@gmail.com**
 
