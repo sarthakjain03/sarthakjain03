@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">A full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [Personal Finance Manager]()
+- 🔭 I’m currently working on [PistonPath - Learn all about Cars]()
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and RorkAI**
 
 - 💬 Ask me about **react, tailwind, typescript, javascript, nodejs**
 
